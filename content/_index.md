@@ -9,8 +9,8 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis espectativas para este proyectos son:
 
--Ampliar mi experiencia usando Git y GitHub
--Practicar mi diseño en front-End
--Aprender a diseñar la parte de Back-End
+- Ampliar mi experiencia usando Git y GitHub
+- Practicar mi diseño en front-End
+- Aprender a diseñar la parte de Back-End
 
 🚀
