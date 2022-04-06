@@ -1,21 +1,14 @@
 ---
-title: 'About me'
+title: 'Sobre mi'
 menu:
   main:
-    name: "AboutMe"
+    name: "Un poco sobre mi"
 ---
 
-## Who am I
+## Quien soy
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy solo otra persona aprendiendo programacion...
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Mi nombre es Jonathan, soy ingeniero titulado en la carrera de tecnologías de la información y comunicaciones (TIC´s) de la universidad Instituto Tecnológico Superior de Álamo Temapache (ITSAT), actualmente estudio en el Centro de Investigación en Computo del Politécnico (CIC)(IPN) pero estoy pronto a terminar mis estudios y enfocarme en el campo laboral. Me especializo en el área de las TI, me estoy preparando, adquiriendo más experiencia en el campo de la programación Full-Stack, Marketing Digital, Scrum Master y creador de contenido.
